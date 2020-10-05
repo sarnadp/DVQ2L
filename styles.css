@@ -607,3 +607,16 @@ text-align: justify;
   margin-top: 10%;
   margin-left: 2%;
 }
+.thank{
+  margin-top: 15%;
+  text-align: center;
+}
+.thank1{
+  margin-top: 5%;
+  text-align: center;
+}
+.thank2{
+  margin-top: 1%;
+  text-align: center;
+  color: blue;
+}
